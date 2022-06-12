@@ -13,5 +13,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/captaino8/mini-webpack-core/issues"
+  },
+  "homepage": "https://github.com/captaino8/mini-webpack-core#readme",
+  "devDependencies": {
+    "@babel/parser": "^7.18.4",
+    "@babel/traverse": "^7.18.2"
+  }
 }
